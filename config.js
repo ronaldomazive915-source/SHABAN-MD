@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Sʜᴀʙᴀɴ-Mᴅ 𓅓*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Rony skies 𓅓*",
 // set the auto reply massage on status reply
 AUTO_CHATBOT: process.env.AUTO_CHATBOT || "true", 
 // "true" = default ON, "false" = default OFF
@@ -23,21 +23,21 @@ ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 // make true to know who dismiss or promoted a member in group  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/sk5pst.jpg",
 // add custom menu and mention reply image url   
-BOT_NAME: process.env.BOT_NAME || "SHABAN-MD V5",
+BOT_NAME: process.env.BOT_NAME || "Rony-MD V5",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "Mʀ-Sʜᴀʙᴀɴ",
+STICKER_NAME: process.env.STICKER_NAME || "Mʀ-Rony",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself  
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923059395959",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "258852440680",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "MR-SHABAN",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Rony*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
 // add img for alive msg 
